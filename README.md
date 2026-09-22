@@ -51,7 +51,3 @@ pip install numpy pandas seaborn matplotlib scikit-learn statsmodels scipy
 - Reports R² score on the training set
 - Residual diagnostics to confirm (or flag violations of) linear
   regression assumptions
-
-## License
-
-MIT
